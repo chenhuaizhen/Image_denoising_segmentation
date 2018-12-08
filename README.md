@@ -1,7 +1,7 @@
 # Image_denoising_segmentation
 Use Gibbs sampling and variational inference to denoise the image and use EM to segment the image
 
-## Requirements(环境)
+## Requirements
 python 3-6  
 scipy  
 cv2  
